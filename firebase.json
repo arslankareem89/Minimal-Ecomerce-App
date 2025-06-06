@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ecomerce-app-be848",
+          "appId": "1:18150951749:android:008df3acf2f08756930c2c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ecomerce-app-be848",
+          "configurations": {
+            "android": "1:18150951749:android:008df3acf2f08756930c2c",
+            "ios": "1:18150951749:ios:79cf73a83514e431930c2c"
+          }
+        }
+      }
+    }
+  }
+}
