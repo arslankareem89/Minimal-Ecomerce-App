@@ -1,16 +1,26 @@
-# ecomerce_app
 
-A new Flutter project.
+A Minimal E-commerce App 🚀
 
-## Getting Started
+A minimal features e-commerce app I made to upskill my learning. This app allows users to authenticate, view products, and add to cart. I used REST API to show product details and Firebase Authentication for secure login and signup functionality.
 
-This project is a starting point for a Flutter application.
+What Can Users Do? 🤔
 
-A few resources to get you started if this is your first Flutter project:
+Authenticate 🔒: Users can login and signup using Firebase Authentication
+View Products 🛍️: Users can view products with details fetched from REST API
+Add to Cart 🛒: Users can add products to cart and view cart details
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+How I Built It 💻
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter: Cross-platform mobile app development framework
+Firebase Authentication: Secure authentication solution
+REST API: Used to fetch product details and descriptions
+
+Features 🌟
+
+Login Screen 🔑: Users can login using their email and password
+Signup Screen 📝: New users can create an account using email and password
+Home Screen 🏠: Users can view products, add to cart, and navigate to product details
+Product Details 📦: Users can view detailed product information, fetched from REST API
+Cart Screen 🛒: Users can view added products, update quantity
+Profile Screen 👤: Users can view their profile information and details
+
